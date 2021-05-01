@@ -2,7 +2,7 @@
 - [Terra Stercoris](http://personal.denison.edu/~lalla/314f20/group2/)
   - A 2D top down game I made with 3 other friends for a Game Design class.
 - [FPS Demo](https://juntaow0.github.io/Unity_FPS_Dev_Build/)
-  - A FPS demo scene I made to play around with Unity and learn about building a FPS system. It is heavily influence by Counter-Strike.
+  - A FPS demo scene I made to play around with Unity and learn about building a FPS system. It is heavily influenced by Counter-Strike.
 - [Orgas Great Escape](https://juntaow0.github.io/OrgasGreatEscape/)
   - A 2D game I made for an anime meme. You need to spam `Z` and `X` to make the character run.
 - [WebGL Asteroid Destroyer](https://juntaow0.github.io/WebGL_Asteroid_Destroyer/)
